@@ -1,0 +1,12 @@
+This is BLN support kernel for SC-02C (Japanese Galaxy S2)
+flash to your phone . own your risk.
+
+features.
+  1. 100Mhz lower clock ( 850mv/900mv ) for battery saving.
+  2. custom boot logo :)
+  3. BLN (#1) support
+  4. secure=0
+  5. disable camera sound.
+
+this kernel for testing BLN.
+enjoy!
